@@ -1,11 +1,11 @@
 # Site settings
-author: calm-block-7153
-title: 
+author: Rebecca Hunt
+title: Eating Mud
 header-img: img/home-bg.png
 email: rebeccahunt034@gmail.com
-copyright_name: calm-block-7153
+copyright_name: Rebecca Hunt
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineer, Computers and humans
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RebeccaHA
