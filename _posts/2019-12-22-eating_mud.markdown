@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Eating mud."
-date:       2019-12-22 10:03:11 +0000
+date:       2019-12-22 05:03:12 -0500
 permalink:  eating_mud
 ---
 
@@ -16,7 +16,7 @@ As I’ve grown older, like many people, my views have changed. I’ve learned t
 
 However, like most things, the corrupt nature of humans can play a part. Using that knowledge of emotional complexity,  harnessing the power of computers for good or bad.
 
-Witnessing things like [NotPetya](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/#), Cambridge Analytica and Spectre was definitely a warning. However on the other side of the coin, things like changing [the way we listen to music](https://observer.com/2015/05/spotifys-head-of-deep-learning-reveals-how-ai-is-changing-the-music-industry/), helping solve global challenges (hopefully climate change) and medical diagnostics and surgey applications gives cause for optimism.
+Witnessing things like [NotPetya](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/#), Cambridge Analytica and Spectre was definitely a warning. However on the other side of the coin, things like changing [the way we listen to music](https://observer.com/2015/05/spotifys-head-of-deep-learning-reveals-how-ai-is-changing-the-music-industry/), helping solve global challenges (hopefully climate change) and medical diagnostics and surgery applications gives cause for optimism.
 
 Is everything too interlinked? Is our generation's need for instantaniety and efficiency going to make society too reliant on computers?  Should we be looking at improved governance for the internet?
 
