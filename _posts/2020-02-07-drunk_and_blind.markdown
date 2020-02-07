@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Drunk and blind"
+title:      "Drunk and blind."
 date:       2020-02-07 17:41:02 -0500
 permalink:  drunk_and_blind
 ---
