@@ -46,17 +46,21 @@ end
 
 Have a guess what do you think the above would return if you use those methods as class methods and then instance methods on the Mum Class? But let's not try to forget about what self represents here.
 
+Class methods
 ```
 Mum.self.tidy_room # => "class method"
 Mum.cycle_to_work # => NoMethodError: undefined method 'cycle_to_work’ for Mum:Class
+```
 
+Instance methods
+```
 Mum.new.cycle_to_work # => instance method
 Mum.new.tidy_room # => NoMethodError: undefined method ‘tidy_room’
 ```
 
 My mum can tell me and my brothers to get in line by height or to tidy our room and we'd do it (probably..), but there is no way I would tidy my room by myself and I'm pretty sure my mum wouldn't get on a bike! 
 
-So what's self I hear you ask? Self in this example is the Mum class, self is being called on Mum. What's self in Mum.new.cycle_to_work? The instance of the Mum class.
+So what's self I hear you ask? Self in this example is the Mum class, self is being called on Mum. What's self in Mum.new.self.cycle_to_work? The instance of the Mum class.
 
 What does this all mean?
 
