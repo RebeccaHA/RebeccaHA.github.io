@@ -34,12 +34,12 @@ Who produces all these instances, the class my Mum (sorry Mum, not to make you s
 class Mum
   
 	def self.tidy_room
-    puts 'class method'
+   puts 'class method'
   end
   
-  def cycle_to_work
-    puts 'instance method'
-  end
+ def cycle_to_work
+  puts 'instance method'
+ end
 
 end
 ```
