@@ -32,13 +32,12 @@ Who produces all these instances, the class my Mum (sorry Mum, not to make you s
 
 ```
 class Mum
-  
-def self.tidy_room
+ def self.tidy_room
   puts 'class method'
-end
+ end
   
 def cycle_to_work
-  puts 'instance method'
+ puts 'instance method'
 end
 
 end
