@@ -6,7 +6,7 @@ permalink:  drunk_and_blind
 ---
 
 
-Coming to the end of my Ruby module, I was unleashed into the wild with the final project.
+Coming to the end of my Ruby module, I was unleashed into the wild with the [final project](http://https://github.com/RebeccaHA/final-project-beers.git).
 
 Set free like an owl trying to find it's barn house. You'd think by getting older you learn how to approach things like this e.g stabilizers on a bike before you can cycle, your first sip of beer before you hit the whisky. But no, as per I just dived straight in. Maybe this is the best way to learn? Though you wouldn't say that to a doctor.
 
