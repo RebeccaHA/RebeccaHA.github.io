@@ -20,7 +20,7 @@ During this project I learnt three things, two about myself and one technical.
 
 As this is a technical blog, I will talk you through number three. I felt a big part of this module was being able to differentiate between self, instance methods and class methods. When people explained it to me, their words were smattered with coding talk, which made it more confusing. After I decoded it, this is what I learnt and hopefully it will help others:
 
-* SELF - The object itself that you are calling it on, could be an instance or a class
+* SELF - Refers to the object itself that you are calling self on, could be an instance or a class
 
 * INSTANCE METHOD - Functionality that can only be called on each instance
 
