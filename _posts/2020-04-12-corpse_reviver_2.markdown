@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Corpse Reviver #2"
-date:       2020-04-12 10:36:44 +0000
+date:       2020-04-12 06:36:44 -0400
 permalink:  corpse_reviver_2
 ---
 
@@ -41,7 +41,7 @@ csv = CSV.open('db/cocktails.csv', headers: :first_row).map(&:to_h)
     puts "There are now #{Cocktail.count} rows in the cocktails table"
 ```
 
-The CSV class opens the cocktail.csv file, taking the first row as headers (make sure they match your Object's attributes) then maps through the file turning each row of data into a hash. 
+The CSV class opens the cocktail.csv file, taking the first row as headers (make sure they match your Object's attributes) and turning them into keys, it then maps through the file turning each row of data into a hash. 
 
 Then it's like riding a bike, iterating through each hash creating a new cocktail instance in my database, setting the cocktail attributes to the cocktail.csv file hash keys. When ever you update or create a new instance, alway remember to save it(I got caught out on that one a few times).
 
